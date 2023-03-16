@@ -1,0 +1,3 @@
+id-generation:
+  nodeId: ${id-generation.nodeId}
+  class-path: ${id-generation.class-path}
