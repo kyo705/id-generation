@@ -57,20 +57,20 @@ id-generation:
 
 main 클래스에 @EnableIdGenerator 사용
 
-![img.png](img.png)
+![image](https://user-images.githubusercontent.com/89891704/225679208-2b9fad9c-3aa7-436b-b5bb-3ad4cafcf826.png)
 
 이 때, 두가지 모드 사용 가능
 
-![img_1.png](img_1.png)
+![image](https://user-images.githubusercontent.com/89891704/225679114-d5b94e67-bd34-4515-a4ef-efc884e4bccc.png)
 
 실행시 아래와 같은 로그 생성
 
-![img_4.png](img_4.png)
+![image](https://user-images.githubusercontent.com/89891704/225678978-9921b12a-44d4-460a-bddf-e108133d476b.png)
 
 Entity를 persist하는 메소드에 @IdGeneration 사용
 
-![img_5.png](img_5.png)
+![image](https://user-images.githubusercontent.com/89891704/225678711-dcfb016a-bc73-464d-bf2a-ebe3bb4dcdbf.png)
 
 생성된 결과 id
 
-![img_6.png](img_6.png)
+![image](https://user-images.githubusercontent.com/89891704/225678412-85199693-7c37-4df6-9399-1cd465f75a98.png)
