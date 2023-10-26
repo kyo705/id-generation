@@ -12,6 +12,14 @@
 > 그 후, snowflake를 직접 구현해 커스터마이징했고 해당 id-generator를 어노테이션을 제공하므로 
 > 편하게 사용하도록 개발했다.
 
+## 초당 ID 생성 횟수
+
+![image](https://github.com/kyo705/id-generation/assets/89891704/3acd60ed-11b2-4cd6-b54f-c816da996621)
+
+
+![image](https://github.com/kyo705/id-generation/assets/89891704/12dd5ae3-630a-49b7-999a-c51d74c8a013)
+
+
 
 ## Getting Started
 
