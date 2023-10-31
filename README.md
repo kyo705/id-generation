@@ -30,16 +30,6 @@
 ```
 
 그 후, 라이브러리를 적용할 프로젝트 실행 후 아래와 같이 dependency를 추가
-### Maven
-
-pom.xml
-```maven
-<dependency>
-    <groupId>com.idgeneration</groupId>
-    <artifactId>spring-boot-jpa-idgeneration</artifactId>
-    <version>1.0</version>
-</dependency>
-```
 
 ### Gradle
 
